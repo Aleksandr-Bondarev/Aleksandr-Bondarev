@@ -1,4 +1,4 @@
-### Hi there 👋 I am Alexandr Bondarev, Frontend Developer.
+### Hi there 👋 I am Aleksandr Bondarev, Frontend Developer.
 
 
 - Open to work, remote or Voronezh. 
