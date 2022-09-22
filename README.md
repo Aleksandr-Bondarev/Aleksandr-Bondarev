@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aleksandr Bondarev, Frontend Developer.
 
-- Currently learning Typescript
+- Currently learning TypeScript
 - Open to work, remote or Voronezh
 - Stack : JavaScript / React / Redux / NodeJS
 - CV : https://cv.hexlet.io/resumes/1454
