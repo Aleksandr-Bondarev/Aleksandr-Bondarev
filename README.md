@@ -1,9 +1,5 @@
-### Hi there 👋 I am Aleksandr Bondarev, Frontend Developer.
+### Hi there 👋 I am Aleksandr Bondarev, JS Developer.
 
-- Currently learning TypeScript
-- Open to work, remote or Voronezh
-- Stack : JavaScript / React / Redux / NodeJS
-- CV : https://cv.hexlet.io/resumes/1454
+- Stack : JavaScript / TypeScript / React / Redux / NodeJS / HTML5 / CCS3
 - Email: alexbondarev1331@mail.ru
 - Telegram: @astro_cloud
-
